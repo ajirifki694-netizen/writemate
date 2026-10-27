@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643537457524",
+    "project_id": "writemate-a1a1b",
+    "storage_bucket": "writemate-a1a1b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643537457524:android:0b15a22f28fc9f0f249c21",
+        "android_client_info": {
+          "package_name": "com.example.writemate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5S7sATcdqNRV0_BFgkpGZhGXLhhv3_jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

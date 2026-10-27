@@ -1,0 +1,3 @@
+[https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=DUMMY_QRIS_WRITEMATE](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=DUMMY_QRIS_WRITEMATE)
+
+ https://docs.google.com/document/d/1bQ5_dg_I_-fShZiSQzrmu5TzHjnVID5b/edit?usp=sharing&ouid=108073665914214238337&rtpof=true&sd=true
